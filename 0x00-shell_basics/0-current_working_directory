@@ -1,5 +1,2 @@
 #!/bin/bash
-echo $0
- 
-full_path=$(realpath $0)
-echo $full_path
+echo /usr/*/0x00-shell_basics
